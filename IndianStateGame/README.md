@@ -7,6 +7,8 @@ Welcome to the Indian State Game! In this Python program, you'll guess the names
 1. **Run the Game:**
    - Make sure you have Python installed.
    - Execute the `main.py` script in your terminal or IDE.
+   - Import Turtle, Screen.
+   - Import pandas.
 
 2. **Game Rules:**
    - A blank map of India will be displayed.
